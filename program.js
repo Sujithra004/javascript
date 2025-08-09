@@ -308,3 +308,8 @@ console.log(wait)}
 // console.log("salary" , salary)
 
 
+function add(){
+    let a= 10 , b= 15
+    console.log(a+b)
+}
+add()
